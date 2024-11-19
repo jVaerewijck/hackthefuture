@@ -1,8 +1,5 @@
-rowid
-pl_name 4
-
-
-
+rowid  
+pl_name 4  
 # Best star
 st_teff 158-160  
 st_lum 176-178  
