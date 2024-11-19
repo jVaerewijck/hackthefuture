@@ -14,4 +14,4 @@ pl_rade 45-47
 pl_dens 86-88  
 gravity ?
 # Atmospheric  
-pl_eqt  
+pl_eqt  98-100
